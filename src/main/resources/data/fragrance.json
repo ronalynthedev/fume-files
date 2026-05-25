@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Milk Orchid",
+    "brand": "Commodity",
+    "description": "A creamy, lactonic floral gourmand built around fig milk and vanilla orchid. Soft, comforting, and skin-close.",
+    "family": "Floral Gourmand",
+    "intensity": "Moderate",
+    "seasons": ["Spring", "Summer", "Autumn"],
+    "accords": ["Creamy", "Floral", "Milky", "Sweet"],
+    "notes": {
+      "top": ["Fig Milk", "Coconut Cream", "Almond Blossom"],
+      "heart": ["Vanilla Orchid", "Magnolia", "Cotton"],
+      "base": ["Macadamia Milk", "Sandalwood"]
+    }
+  },
+  {
+    "name": "Fairy Dust",
+    "brand": "Bujairami",
+    "description": "A dreamy gourmand blending tropical mango and coconut water with creamy vanilla and soft woody warmth.",
+    "family": "Floral Gourmand",
+    "intensity": "Moderate",
+    "seasons": ["Spring", "Summer", "Autumn"],
+    "accords": ["Sweet", "Tropical", "Creamy", "Woody"],
+    "notes": {
+      "top": ["Mango", "Coconut Water", "Bourbon Vanilla", "Mate"],
+      "heart": ["Brown Sugar", "Matcha Tea", "Vanilla", "Jasmine", "Amber"],
+      "base": ["Peru Balsam", "Sandalwood", "White Musk", "Vanilla", "Tonka Bean"]
+    }
+  },
+  {
+    "name": "Marshmelt",
+    "brand": "Bujairami",
+    "description": "A pure, pillowy gourmand of toasted marshmallow, smooth vanilla, and a whisper of sugar. Simple, cosy, and irresistible.",
+    "family": "Gourmand",
+    "intensity": "Light",
+    "seasons": ["Autumn", "Winter"],
+    "accords": ["Sweet", "Fluffy", "Gourmand", "Warm"],
+    "notes": {
+      "top": ["Marshmallow"],
+      "heart": ["Vanilla"],
+      "base": ["Sugar"]
+    }
+  },
+  {
+    "name": "You Rêve",
+    "brand": "Glossier",
+    "description": "A lush, dreamy gourmand skin-scent enhancer opening with rich buttercream and settling into plum, toasted almond, and warm musk.",
+    "family": "Floral Gourmand",
+    "intensity": "Light",
+    "seasons": ["Spring", "Autumn", "Winter"],
+    "accords": ["Creamy", "Sweet", "Powdery", "Musky"],
+    "notes": {
+      "top": ["Buttercream"],
+      "heart": ["Plum", "Toasted Almond", "Iris", "Sandalwood"],
+      "base": ["Ambroxan", "Ambrette"]
+    }
+  },
+  {
+    "name": "You",
+    "brand": "Glossier",
+    "description": "A warm, musky skin-scent enhancer with sparkling pink pepper and earthy iris that adapts to the wearer's skin chemistry.",
+    "family": "Musky Floral",
+    "intensity": "Light",
+    "seasons": ["Spring", "Summer", "Autumn"],
+    "accords": ["Musky", "Warm", "Spicy", "Skin"],
+    "notes": {
+      "top": ["Pink Pepper"],
+      "heart": ["Iris"],
+      "base": ["Ambrette", "Ambroxan"]
+    }
+  },
+  {
+    "name": "Donna Born in Roma Extradose",
+    "brand": "Valentino",
+    "description": "An ultra-intense oriental vanilla at its highest concentration. Blackcurrant opens into a smooth rum accord with a deeply addictive vanilla base.",
+    "family": "Oriental Vanilla",
+    "intensity": "Intense",
+    "seasons": ["Autumn", "Winter"],
+    "accords": ["Vanilla", "Boozy", "Dark", "Sweet"],
+    "notes": {
+      "top": ["Blackcurrant"],
+      "heart": ["Rum Accord"],
+      "base": ["Vanilla Extract"]
+    }
+  },
+  {
+    "name": "Dança Mística",
+    "brand": "Sol de Janeiro",
+    "description": "A sparkling floral inspired by the beaches of Búzios. Purple fig and champagne open into lily of the valley and orris, settling into a warm vanilla sandalwood base.",
+    "family": "Floral Fruity",
+    "intensity": "Moderate",
+    "seasons": ["Spring", "Summer"],
+    "accords": ["Fresh", "Floral", "Fruity", "Warm"],
+    "notes": {
+      "top": ["Fig", "Champagne"],
+      "heart": ["Green Anjou Pear", "Orris", "Lily of the Valley"],
+      "base": ["Sandalwood", "Vanilla", "Amber"]
+    }
+  },
+  {
+    "name": "Father Figure",
+    "brand": "Phlur",
+    "description": "A vivid green fragrance rooted in lushness. Fleshy fig and dewy cassis open into creamy sandalwood, orris root, and vanilla Madagascar with sheer patchouli intimacy.",
+    "family": "Woody Green",
+    "intensity": "Moderate",
+    "seasons": ["Spring", "Summer", "Autumn"],
+    "accords": ["Green", "Fig", "Woody", "Creamy"],
+    "notes": {
+      "top": ["Fig", "Water Lily", "Cassis"],
+      "heart": ["Iris", "Orris Root", "Jasmine"],
+      "base": ["Musk", "Sandalwood", "Vanilla", "Patchouli"]
+    }
+  },
+  {
+    "name": "Beach Skin",
+    "brand": "Phlur",
+    "description": "A fresh, solar body mist evoking sun-warmed skin after a day at the beach. Tiare blossom and salty bergamot melt into coconut milk and creamy sandalwood.",
+    "family": "Floral Fresh",
+    "intensity": "Light",
+    "seasons": ["Spring", "Summer"],
+    "accords": ["Solar", "Beachy", "Coconut", "Fresh"],
+    "notes": {
+      "top": ["Tiare Flower", "Salt", "Bergamot", "Pink Pepper"],
+      "heart": ["Coconut Milk", "Lily of the Valley"],
+      "base": ["Vanilla", "Musk", "Sandalwood"]
+    }
+  },
+  {
+    "name": "Goddess",
+    "brand": "Burberry",
+    "description": "A gourmand aromatic fragrance built around a powerful trio of vanillas. Rich vanilla caviar with soft lavender creates a sophisticated comfort in a bottle.",
+    "family": "Aromatic Gourmand",
+    "intensity": "Moderate",
+    "seasons": ["Autumn", "Winter"],
+    "accords": ["Vanilla", "Powdery", "Warm", "Aromatic"],
+    "notes": {
+      "top": ["Vanilla", "Lavender", "Cacao", "Ginger"],
+      "heart": ["Vanilla Caviar"],
+      "base": ["Vanilla Absolute"]
+    }
+  },
+  {
+    "name": "Soie Malaquais",
+    "brand": "Dries Van Noten",
+    "description": "A silken, sophisticated gourmand inspired by silk gowns on the Quai Malaquais in Paris. Bergamot and blackcurrant weave into rose and a warm chestnut and cocoa base.",
+    "family": "Floral Gourmand",
+    "intensity": "Moderate",
+    "seasons": ["Autumn", "Winter"],
+    "accords": ["Silky", "Gourmand", "Roasted", "Floral"],
+    "notes": {
+      "top": ["Bergamot", "Blackcurrant"],
+      "heart": ["Rose", "Silk Accord"],
+      "base": ["Chestnut", "Cocoa", "Vanilla"]
+    }
+  },
+  {
+    "name": "Hundred Silent Ways",
+    "brand": "Nishane",
+    "description": "A warm, elegant floral oriental with a cotton candy softness. Tuberose and peach open into a jasmine and gardenia heart, settling into vanilla and sandalwood.",
+    "family": "Oriental Floral",
+    "intensity": "Intense",
+    "seasons": ["Spring", "Summer", "Autumn"],
+    "accords": ["Floral", "Warm", "Sweet", "Powdery"],
+    "notes": {
+      "top": ["Tuberose", "Peach", "Mandarin Orange"],
+      "heart": ["Gardenia", "Jasmine", "Orris"],
+      "base": ["Vanilla", "Sandalwood", "Vetiver"]
+    }
+  },
+  {
+    "name": "Fakhama",
+    "brand": "Maison Asrar",
+    "description": "An oriental floral inspired by Kilian Love Don't Be Shy. Gourmand top notes with orange flower give way to vanilla and white florals on a clean musk base.",
+    "family": "Oriental Floral",
+    "intensity": "Moderate",
+    "seasons": ["Autumn", "Winter"],
+    "accords": ["Floral", "Sweet", "Warm", "Musky"],
+    "notes": {
+      "top": ["Gourmand Accord", "African Orange Flower"],
+      "heart": ["Vanilla", "White Flowers"],
+      "base": ["Musk"]
+    }
+  },
+  {
+    "name": "Yum Boujee Marshmallow 81",
+    "brand": "Kayali",
+    "description": "A luxuriously fluffy pink gourmand. Freesia and juicy apple open into marshmallow and strawberry, drying down to whipped vanilla and soft musk.",
+    "family": "Floral Fruity Gourmand",
+    "intensity": "Moderate",
+    "seasons": ["Spring", "Autumn", "Winter"],
+    "accords": ["Sweet", "Fruity", "Fluffy", "Vanilla"],
+    "notes": {
+      "top": ["Freesia", "Italian Lemon", "Nectarine Blossom", "Apple"],
+      "heart": ["Marshmallow", "Strawberry", "Coconut", "Orange Blossom"],
+      "base": ["Whipped Cream", "Sugar", "Vanilla", "Musk", "Raspberry", "Ambroxan"]
+    }
+  },
+  {
+    "name": "This is Her",
+    "brand": "Zadig & Voltaire",
+    "description": "A soft, smooth woody musky floral with pink pepper and jasmine. Versatile, clean, and effortlessly wearable.",
+    "family": "Floral Woody Musk",
+    "intensity": "Light",
+    "seasons": ["Spring", "Summer", "Autumn"],
+    "accords": ["Musky", "Floral", "Smooth", "Clean"],
+    "notes": {
+      "top": ["Pink Pepper", "Sambac Jasmine"],
+      "heart": ["Chestnut", "White Musk"],
+      "base": ["Sandalwood", "Cashmeran"]
+    }
+  },
+  {
+    "name": "Fire at Will",
+    "brand": "Jovoy",
+    "description": "An ethereal, refined vanilla gourmand built around a luminous mimosa and vanilla duo. Elegant rather than sweet, with amber and vetiver grounding the soft core.",
+    "family": "Oriental Vanilla",
+    "intensity": "Moderate",
+    "seasons": ["Autumn", "Winter"],
+    "accords": ["Vanilla", "Powdery", "Warm", "Gourmand"],
+    "notes": {
+      "top": ["Vanilla", "Mimosa"],
+      "heart": ["Vanilla", "Brown Sugar"],
+      "base": ["Amber", "Musk", "Vetiver"]
+    }
+  },
+  {
+    "name": "By the Fireplace",
+    "brand": "Replica — Maison Margiela",
+    "description": "A warm, smoky evocation of a crackling winter fire. Roasted chestnut and pink pepper over guaiac wood and clove, sweetened with vanilla and cashmeran.",
+    "family": "Warm Spicy",
+    "intensity": "Moderate",
+    "seasons": ["Autumn", "Winter"],
+    "accords": ["Smoky", "Woody", "Warm", "Cosy"],
+    "notes": {
+      "top": ["Pink Pepper", "Chestnut", "Red Berries"],
+      "heart": ["Guaiac Wood", "Clove", "Cashmeran"],
+      "base": ["Vanilla", "Musk"]
+    }
+  }
+]
